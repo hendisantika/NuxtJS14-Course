@@ -16,6 +16,10 @@
 # production
 /build
 
+# WebStorm
+.idea
+*.iml
+
 # misc
 .DS_Store
 *.pem
